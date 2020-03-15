@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="llcoolf@127.0.0.1:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="llcoolf@127.0.0.1:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/llcoolf/pythonexer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
