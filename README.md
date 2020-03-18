@@ -72,6 +72,16 @@ right  left    center      default
 12      13      45          23
 
 
+<font color=#00ffff size=4>null</font>
+
+```seq
+Alice->Bob: h
+ello Bob,how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+
 
 
 
