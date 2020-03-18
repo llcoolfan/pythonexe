@@ -49,3 +49,17 @@ bold with two ** **bold**
 # pain text
     just write some simple text
 `use `
+# How to insert links
+this is link to [baidu](http://www.baidu.com)
+this is links to [tencent] [neteasy]
+
+[tencent]: http://www.tencent.com
+[neteasy]: http://www.163.com
+
+# header {#header}
+this is link to [the section](#header)
+# how to insert image
+---------------------
+![github](./github.png)
+
+
